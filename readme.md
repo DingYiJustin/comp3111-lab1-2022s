@@ -1,2 +1,3 @@
-Justin DING  
-20399302
+Name: Justin DING  
+ID:20399302
+![](screenshot1.png)
